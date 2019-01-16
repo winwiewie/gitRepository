@@ -1,0 +1,15 @@
+팀프로젝트
+문제에 대한 인식
+팀원이 문제에 대해 파악한 정도
+
+프로젝트명
+
+클래스명
+ex)
+Gugudan
+GuguMain
+
+메서드명
+ex)
+void gugudanColumn()
+void gugudanRow()
