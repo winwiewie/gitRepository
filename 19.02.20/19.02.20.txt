@@ -1,0 +1,5 @@
+﻿참조변수와 인스턴스 연결
+ 
+compiler time : 코드 시점
+
+runtime : 실행 시점 
